@@ -67,11 +67,11 @@ public class Checkin {
 
 
     public void ShowCheckinDetails(){
-        System.out.println("Fname is "+ FName +
-                "Second name is "+ SName+
-                "RegNo is "+ RegNo+
-                "Checkin date is "+ Checkin+
-                "Room number is "+RoomNo+
-                "Number of persons is "+Numofpersons);
+        System.out.println("Fname is :"+ FName + "\n"+
+                "Second name is :"+ SName + "\n"+
+                "RegNo is: "+ RegNo + "\n"+
+                "Checkin date is: "+ Checkin  + "\n"+
+                "Room number is :"+RoomNo + "\n"+
+                "Number of persons is :"+Numofpersons);
     }
 }
